@@ -1,2 +1,2 @@
 # Projeto-Empregado
-Projeto Java para estudos de como classes e Herança
+Projeto Java para estudos de classes e Herança
